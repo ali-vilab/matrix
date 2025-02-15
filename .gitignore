@@ -176,4 +176,4 @@ saved_checkpoints
 .vscode
 data/
 models/
-*.mp4
+# *.mp4
