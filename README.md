@@ -18,8 +18,8 @@ Download The Matrix model weights at <a href="https://huggingface.co/MatrixTeam/
 <div style="text-align:center;"> 
     <video controls
            width="720"
-           poster="readme_src/font_30s.png">
-        <source src="readme_src/output_30s.mp4" type="video/mp4">
+           poster="[readme_src/font_30s.png](https://github.com/user-attachments/assets/51b8b2b0-be78-41c3-b4d3-5a2a66b59a0e)">
+        <source src="https://github.com/user-attachments/assets/c695160a-48bc-43e3-8ffc-700271ac0084">
         Your browser does not support the video tag.
     </video>
 </div>
