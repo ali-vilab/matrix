@@ -15,6 +15,7 @@ Download The Matrix model weights at <a href="https://huggingface.co/MatrixTeam/
 📍 (Coming Soon) Explore The Matrix playground online at <a href="">Journee</a> to experience real-time AI generated world.
 </p>
 
+
 ---
 ## What is The Matrix?
 The Matrix is an advanced world model designed to generate **high-quality, infinite-time interactive videos in real-time**, setting a new benchmark in the field of **neural interactive simulations**. It is simultaneously several innovations:
