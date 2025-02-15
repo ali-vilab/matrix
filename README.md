@@ -6,10 +6,13 @@
 Download The Matrix model weights at <a href="https://huggingface.co/MatrixTeam/TheMatrix" target="_blank"> 🤗 Huggingface</a> or <a href="https://www.modelscope.cn/models/AiurRuili/TheMatrix" target="_blank"> 🤖 ModelScope</a>
 </p>
 <p align="center">
-📚 View the <a href="https://arxiv.org/abs/2412.03568" target="_blank">Paper</a> and <a href="" target="_blank">Documentation</a>
+📚 View the <a href="https://arxiv.org/abs/2412.03568" target="_blank">Paper</a>, <a href="https://matrixteam-ai.github.io/pages/TheMatrix/" target="_blank"> Website, and <a href="http://matrixteam-ai.github.io/docs/TheMatrixDocs" target="_blank">Documentation</a>
 </p>
 <p align="center">
     👋 Say Hi to our team and members at <a href="https://matrixteam-ai.github.io/" target="_blank">Matrix-Team</a>
+</p>
+<p align="center">
+📍 (Coming Soon) Explore The Matrix playground online at <a href="">Journee</a> to experience real-time AI generated world.
 </p>
 
 ---
@@ -28,7 +31,7 @@ Comprehensive documentation is available in [English](). This includes detailed 
 
 
 ## Model Weights
-Model checkpoints can be found in [Huggingface](https://huggingface.co/MatrixTeam/TheMatrix) and [ModelScope](https://www.modelscope.cn/models/AiurRuili/TheMatrix). Please refer to the [Documentation]() for how to load them for inferences.
+Model checkpoints can be found in [Huggingface](https://huggingface.co/MatrixTeam/TheMatrix) and [ModelScope](https://www.modelscope.cn/models/AiurRuili/TheMatrix). Please refer to the [Documentation](http://matrixteam-ai.github.io/docs/TheMatrixDocs) for how to load them for inferences.
 
 
 ## Important Updates
@@ -37,18 +40,18 @@ According to a request from Alibaba Tongyi Lab, the previous version of The Matr
 
 As a result, the open release of our model has been delayed, and some components are still under development. These components will be released as soon as they are finished, including:
 
-[ ] Inference scripts for 8-GPU parallel inference of the DiT backbone, which will accelerate the inference speed by around 6-8 times.
+- [ ] Inference scripts for 8-GPU parallel inference of the DiT backbone, which will accelerate the inference speed by around 6-8 times.
 
-[ ] Training of the Stream Consistency Models, which will accelerate inference speed by around 7-10 times.
+- [ ] Training of the Stream Consistency Models, which will accelerate inference speed by around 7-10 times.
 
-[ ] Training on fused realistic and simulated data to acquire stronger generalization ability.
+- [ ] Training on fused realistic and simulated data to acquire stronger generalization ability.
 
 ## Reimplementation contributions
 The successful release of The Matrix Project is built upon the collective efforts of our incredibly talented team members. We extend our heartfelt gratitude for their dedication, hard work, and invaluable contributions. Those members are:
 
 **Longxiang Tang, Zhicai Wang, Ruili Feng, Ruihang Chu, Han Zhang, and Zhantao Yang**
 
-Special Thanks to Longxiang and Zhicai for their excellent contributions.
+Special Thanks to **Longxiang** and **Zhicai** for their excellent contributions.
 
 ## Additional Notes
 
