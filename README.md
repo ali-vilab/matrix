@@ -15,6 +15,14 @@ Download The Matrix model weights at <a href="https://huggingface.co/MatrixTeam/
 📍 (Coming Soon) Explore The Matrix playground online at <a href="">Journee</a> to experience real-time AI generated world.
 </p>
 
+<div style="text-align:center;"> 
+    <video controls
+           width="720"
+           poster="readme_src/font_30s.png">
+        <source src="readme_src/output_30s.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 ---
 ## What is The Matrix?
